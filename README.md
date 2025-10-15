@@ -24,7 +24,20 @@ Configuramos dos cámaras virtuales con diferentes zonas de seguimiento al jugad
 
 <img src="Images\DatosCamera002.png" width="100%">
 
+Definimos un área de confinamiento diferente para cada una de las dos cámaras.
 
+## Camera001
 
+Confinamiento a través de un Box Collider 2D.
 
+<img src="Images\Camera001ZonaDeConfinamiento.gif" width="100%">
 
+<img src="Images\Camera001ZonaDeConfinamiento.png" width="100%">
+
+## Camera002
+
+Confinamiento a través de un Composite Collider 2D.
+
+<img src="Images\Camera002_CompositerCollider.gif" width="100%">
+
+<img src="Images\Camera002_CompositeCollider.png" width="100%">
