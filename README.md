@@ -4,7 +4,7 @@ Configuramos dos cámaras virtuales con diferentes zonas de seguimiento al jugad
 
 ## Camera001
 
-<img src="Images\Camera001_.gif" width="100%">
+<img src="Images\Camera001__.gif" width="100%">
 
 <img src="Images\Camera001.gif" width="100%">
 
