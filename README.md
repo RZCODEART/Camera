@@ -41,3 +41,19 @@ Confinamiento a través de un Composite Collider 2D.
 <img src="Images\Camera002_CompositerCollider.gif" width="100%">
 
 <img src="Images\Camera002_CompositeCollider.png" width="100%">
+
+Seguimiento a un grupo de objetivos:
+
+
+## Create Target Group // 3 Sprites
+
+<img src="Images\TargetGroup_3.gif" width="100%">
+
+<img src="Images\TargetGroup_3_2.gif" width="100%">
+
+<img src="Images\TargetGroup_3_Datos_1.png" width="100%">
+
+<img src="Images\TargetGroup_3_Datos_2.png" width="100%">
+
+
+## Create Target Group // 5 Sprites
