@@ -57,3 +57,11 @@ Seguimiento a un grupo de objetivos:
 
 
 ## Create Target Group // 5 Sprites
+
+<img src="Images\TargetGroup_5.gif" width="100%">
+
+<img src="Images\TargetGroup_5_2.gif" width="100%">
+
+<img src="Images\TargetGroup_5_Datos_1.png" width="100%">
+
+<img src="Images\TargetGroup_5_Datos_2.png" width="100%">
