@@ -72,7 +72,13 @@ Se implementó un zoom en la cámara del jugador que se controla con las teclas 
 
 <img src="Images\Camera_Wide_Short_2.gif" width="100%">
 
-<img src="Images\Camera_W_S_001.png" width="50%">
+<img src="Images\Camera_W_S_001.png" width="100%">
 
+Seleccionamos un conjunto de teclas que permiten cambiar entre dos cámaras; en nuestro caso, hemos activado el teclado numérico 1 y 2.
+
+<img src="Images\ChangeCamera.gif" width="100%">
+
+<img src="Images\ChangeCamaraUI (1).png" width="100%">
+<img src="Images\ChangeCamaraUI (2).png" width="100%">
 
 
