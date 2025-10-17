@@ -66,11 +66,13 @@ Seguimiento a un grupo de objetivos:
 
 <img src="Images\TargetGroup_5_Datos_2.png" width="100%">
 
-Implementamos un zoom a la cámara del jugador que se controle con las teclas w-s
+Se implementó un zoom en la cámara del jugador que se controla con las teclas W y S. Para esto, se utilizó el eje Vertical del Input Manager, ya que este eje agrupa los comandos para ambas teclas.  
 
-<img src="Images\TargetGroup_5.gif" width="100%">
+<img src="Images\Camera_Wide_Short_.gif" width="100%">
 
-<img src="Images\TargetGroup_5_2.gif" width="100%">
+<img src="Images\Camera_Wide_Short_2.gif" width="100%">
+
+<img src="Images\Camera_W_S_001.png" width="50%">
 
 
 
