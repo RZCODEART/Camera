@@ -78,7 +78,6 @@ Seleccionamos un conjunto de teclas que permiten cambiar entre dos cámaras; en 
 
 <img src="Images\ChangeCamera.gif" width="100%">
 
-<img src="Images\ChangeCamaraUI (1).png" width="100%">
 <img src="Images\ChangeCamaraUI (2).png" width="100%">
-
+<img src="Images\ChangeCamaraUI (1).png" width="100%">
 
