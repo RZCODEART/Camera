@@ -65,3 +65,12 @@ Seguimiento a un grupo de objetivos:
 <img src="Images\TargetGroup_5_Datos_1.png" width="100%">
 
 <img src="Images\TargetGroup_5_Datos_2.png" width="100%">
+
+Implementamos un zoom a la cámara del jugador que se controle con las teclas w-s
+
+<img src="Images\TargetGroup_5.gif" width="100%">
+
+<img src="Images\TargetGroup_5_2.gif" width="100%">
+
+
+
