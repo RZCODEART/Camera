@@ -95,3 +95,12 @@ Creamos un script para activar la cámara lenta cuando el personaje colisiona co
 <img src="Images\Lento_Rapido_2.gif" width="100%">
 
 <img src="Images\iconos_Lento_Rapido.png" width="100%">
+
+Hemos añadido unas líneas al script CameraControl para intercambiar la cámara activa mediante la colisión del personaje con un icono de cámara. 
+
+<img src="Images\ChangedCamera.gif" width="100%">
+<img src="Images\ChangedCamera_2.gif" width="100%">
+
+<img src="Images\Icono_ChangedCamera.png" width="100%">
+
+
