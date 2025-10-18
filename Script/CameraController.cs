@@ -21,6 +21,9 @@ public class CameraController : MonoBehaviour
     public TextMeshProUGUI camera1;
     public TextMeshProUGUI camera2;
 
+   // private bool isCamera = false;
+   // private bool isBicho = false;
+
 
     void Start()
     {
@@ -96,9 +99,18 @@ public class CameraController : MonoBehaviour
 
     }
 
+    public void CambioCamera ()
+    {
+           cam01.Priority = 10;
+            cam02.Priority = 15;
 
+            camera2.fontStyle = FontStyles.Bold;
+            camera2.color = Color.red;
+            camera1.fontStyle = FontStyles.Normal;
+            camera1.color = Color.white;
 
-
+       
+    }
 
 
 }

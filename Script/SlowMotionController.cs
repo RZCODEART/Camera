@@ -17,18 +17,28 @@ public class SlowMotionController : MonoBehaviour
     public float camaraLenta = 0.2f;
     [SerializeField] float escalaTiempoOriginal;
 
+    public CameraController destino;
+
+    private void Awake()
+    {
+        
+    }
+
+
+
     void Start()
     {
         escalaTiempoOriginal = Time.timeScale;
         srLento.material.color = whiteC;
         srOriginal.material.color = whiteC;
+       
     }
 
     // Update is called once per frame
     void Update()
     {
-       
-        
+
+
 
 
     }
@@ -42,9 +52,9 @@ public class SlowMotionController : MonoBehaviour
             Time.timeScale = camaraLenta;
             Time.fixedDeltaTime = Time.timeScale * 0.02f; // Este es el valor por defecto para la fisicas.
         }
-        
 
-     
+
+
         if (other.tag == "OriginalTime")
         {
             Time.timeScale = escalaTiempoOriginal;
@@ -52,7 +62,18 @@ public class SlowMotionController : MonoBehaviour
             srLento.material.color = whiteC;
             srOriginal.material.color = TriggerC;
         }
-        
+
+        if (other.tag == "Camera")
+        {
+            if (destino != null)
+            {
+                destino.CambioCamera();
+                print("cambio de camara vaaa...");
+            }
+            
+
+        }
+
 
     }
 
