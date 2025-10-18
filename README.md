@@ -88,3 +88,10 @@ Implementamos una interfaz de usuario (UI) con dos elementos que indican qué c�
 <img src="Images\SelectCameraforUI_ (1).png" width="50%">
 <img src="Images\SelectCameraforUI_ (2).png" width="50%">
 <img src="Images\SelectCameraforUI_ (3).png" width="100%">
+
+Creamos un script para activar la cámara lenta cuando el personaje colisiona con un elemento de la escena, y otro elemento que restablece la velocidad original del juego.
+
+<img src="Images\Lento_Rapido.gif" width="100%">
+<img src="Images\Lento_Rapido_2.gif" width="100%">
+
+<img src="Images\iconos_Lento_Rapido.png" width="100%">
