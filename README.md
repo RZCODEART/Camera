@@ -81,3 +81,4 @@ Seleccionamos un conjunto de teclas que permiten cambiar entre dos cámaras; en 
 <img src="Images\ChangeCamaraUI (2).png" width="100%">
 <img src="Images\ChangeCamaraUI (1).png" width="100%">
 
+Implementamos una UI con dos elementos que nos señalan que camara esta activa ademas que nos permite seleccionar y activar la camara que decemos.
